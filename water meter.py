@@ -5,6 +5,8 @@ print("-------------------------------------------------------------------------
 water_rain_week = int(input("Enter last week rain presentation: "))
 print("")
 
+print("Exchange_on")
+
 ("--print------------------------------------------------------------------------------------------------------")
 if water_limit <= 50:
     print("ok")
