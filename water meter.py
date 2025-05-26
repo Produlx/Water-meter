@@ -3,4 +3,5 @@ water_last_limit = int(int("Enter your last god water qty: "))
 water_rain_week = int(input("Enter last week rain presentation: "))
 print("")
 
-
+if water_limit <= 50:
+    print("ok")
