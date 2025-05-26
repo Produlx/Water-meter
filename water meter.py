@@ -5,3 +5,6 @@ print("")
 
 if water_limit <= 50:
     print("ok")
+else:
+    print("Your water limit is good,no need")
+    
