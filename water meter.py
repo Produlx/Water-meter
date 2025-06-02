@@ -37,3 +37,6 @@ print("kjhbiuh")
 print("111")
 print("hh")
 print("mkpok")'''
+
+
+if , else ,elseif
