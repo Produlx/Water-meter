@@ -40,3 +40,4 @@ print("mkpok")'''
 
 
 if , else ,elseif
+<,>,<=<<>=
