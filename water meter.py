@@ -45,4 +45,4 @@ if , else ,elseif
 hfejfwjef
 print("PKAYA")
 print("PONNAYA")
-print("wesi")
+y = print("wesi")
