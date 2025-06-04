@@ -47,3 +47,5 @@ print("PKAYA")
 print("PONNAYA")
 y = print("wesi")
 x = print("baddah")
+
+12 = piththama
