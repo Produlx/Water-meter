@@ -52,3 +52,4 @@ x = print("baddah")
 13 = kariponnayaa
 14 = paduruwesi
 15 = kmbih
+16 = payyandi
