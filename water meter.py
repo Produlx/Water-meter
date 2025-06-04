@@ -49,3 +49,4 @@ y = print("wesi")
 x = print("baddah")
 
 12 = piththama
+13 = kariponnayaa
