@@ -50,3 +50,4 @@ x = print("baddah")
 
 12 = piththama
 13 = kariponnayaa
+14 = paduruwesi
