@@ -57,3 +57,4 @@ x = print("baddah")
 17 = dulcat
 18 = manusath
 19 = wanasath
+20 = balusath
