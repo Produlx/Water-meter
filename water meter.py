@@ -62,3 +62,4 @@ x = print("baddah")
 
 22 = pinguththaraya
 23 = halparuwa
+24 = gappiya
