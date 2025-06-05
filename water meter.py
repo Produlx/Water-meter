@@ -55,3 +55,4 @@ x = print("baddah")
 16 = payyandi
 
 17 = dulcat
+18 = manusath
