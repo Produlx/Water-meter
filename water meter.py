@@ -59,3 +59,5 @@ x = print("baddah")
 19 = wanasath
 20 = balusath
 21 = carisath
+
+22 = pinguththaraya
