@@ -61,3 +61,4 @@ x = print("baddah")
 21 = carisath
 
 22 = pinguththaraya
+23 = halparuwa
