@@ -65,3 +65,5 @@ x = print("baddah")
 24 = gappiya
 25 = pimpiya
 26 = kibisibah
+
+27 = this is
