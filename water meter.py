@@ -66,7 +66,7 @@ x = print("baddah")
 25 = pimpiya
 26 = kibisibah
 
-27 = this is
-28 = last fake
+27 = this_is
+28 = last_fake
 29 =thiing
-30 = i doing
+30 = i_doing
