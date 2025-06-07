@@ -68,4 +68,5 @@ x = print("baddah")
 
 27 = this is
 28 = last fake
-29 = thing
+29 =thiing
+30 = i doing
