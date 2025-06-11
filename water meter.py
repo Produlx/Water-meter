@@ -86,3 +86,4 @@ eer = dffger
 erg = rgerter
 
 wwd = wqeq
+zx = sqs
