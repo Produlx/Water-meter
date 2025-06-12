@@ -95,3 +95,4 @@ sx = jwkd
 hu = wdqw
 sc = ax
 QI = S
+ON = OJJ
